@@ -2,7 +2,7 @@
 
 Certains citoyens se sont rassemblés, à leur propre initiative sans conformité avec une quelconque loi, pour proposer la loi constitutionnelle suivante :
 
-## Préambule
+### Préambule
 
 La France est un État qui se reconnait comme divisé, traversé par des contradictions d'intérêt et qui se fixe comme modalité d'associer à parts égales, chaque citoyen dans :
 
@@ -12,7 +12,13 @@ La France est un État qui se reconnait comme divisé, traversé par des contrad
 
 et ce, en vue d’arriver à un arbitrage de celles-ci.
 
-## Article premier
+Cette constitution est constituée de deux parties : l'une est modifiable, l'autre ne peut l'être sans rendre tout l'ensemble caduque et donc, anéhantir la République. Ce préambule fixe cette règle et n'est donc pas modifiable par quelque procédure que ce soit.
+
+## Articles immuables
+
+Les articles suivants ne peuvent être modifiés sans annuler la constitution.
+
+### Article premier
 
 La France est un État qui reconnait à chaque citoyen sans distinction physique ou religieuse les droits fondamentaux suivants :
 
