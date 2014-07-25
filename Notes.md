@@ -19,6 +19,6 @@ Les grandes nouveautés sont l'accès à un internet neutre, qui est un combat d
 
 Le plus grosse avancée cependant, repose dans l'accès à un revenu quelque soit l'activité, ce qui oblige l'État à mettre en place un revenu universel.
 
-La question de la sanité de l'eau et de la nourriture est importante : une voie à explorer pourrait être la définition d'eau potable selon l'OMS : "une eau que l'on peut boire toute sa vie sans aucun danger pour la santé". C'est un définition encore vague, mais qui pose un premier cadre.
+La question de la sanité de l'eau et de la nourriture est importante : une voie à explorer pourrait être la définition d'eau potable selon l'OMS : "une eau que l'on peut boire toute sa vie sans aucun danger pour la santé". C'est une définition encore vague, mais qui pose un premier cadre.
 
 La question environnementale est très importante, elle ne doit pas être négligée. Il faudrait une partie entière lui étant consacrée.
