@@ -1,4 +1,4 @@
-# Consitution alternative de la République Française
+# Constitution alternative de la République Française
 
 Certains citoyens se sont rassemblés, à leur propre initiative sans conformité avec une quelconque loi, pour proposer la loi constitutionnelle suivante :
 
