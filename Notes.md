@@ -18,3 +18,7 @@ L'accès au logement, à l'eau et l'électricité courants, à la nourriture et 
 Les grandes nouveautés sont l'accès à un internet neutre, qui est un combat d'un grand nombre d'informaticiens ces dernières années, l'accès aux services rendus par l'État de manière simple, impliquant que l'État ne peut pas noyer ses citoyens dans les démarches administratives, à l'éducation et à la culture quelques soitent les ressources financières ce qui implique que l'État ne peut pas privatiser l'École et doit la financer selon les moyens nécessaires. Sur ce point, l'État devrait, dans la constitution déjà, abolir le droit d'auteur tel qu'il existe aujourd'hui en vertu de ce principe.
 
 Le plus grosse avancée cependant, repose dans l'accès à un revenu quelque soit l'activité, ce qui oblige l'État à mettre en place un revenu universel.
+
+La question de la sanité de l'eau et de la nourriture est importante : une voie à explorer pourrait être la définition d'eau potable selon l'OMS : "une eau que l'on peut boire toute sa vie sans aucun danger pour la santé". C'est un définition encore vague, mais qui pose un premier cadre.
+
+La question environnementale est très importante, elle ne doit pas être négligée. Il faudrait une partie entière lui étant consacrée.
