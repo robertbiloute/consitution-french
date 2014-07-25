@@ -17,7 +17,7 @@ et ce, en vue d’arriver à un arbitrage de celles-ci.
 La France est un État qui reconnait à chaque citoyen sans distinction physique ou religieuse les droits fondamentaux suivants :
 
     * l'accès à l'eau courante,
-    * l'accès à une nourriture, de qualité et saine,
+    * l'accès à une nourriture de qualité et saine,
     * l'accès à l'électricité, dans les limites des possibilités environnementales
     * l'accès à un logement, quelle que soit ses ressources ou son activité,
     * l'accès à un revenu financier, quellle que soit sont activité,
