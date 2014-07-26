@@ -37,6 +37,8 @@ L'État a aussi un ensemble de devoirs vis-à-vis de son peuple. Certains décou
 
 ## La structure du gourvernement
 
+Éviter de déclarer une République … On invente peut-être une nouvelle forme de démocratie !
+
 L'idée est de reprendre la séparation des trois pouvoirs (exécutif, législatif et judiciaire) mais en les séparant complètement. Par exemple, la justice ne devrait pas être placé sous l'égide d'un ministre de la justice.  
 Un quatrième pouvoir pourrait leur être ajouté : le pouvoir économique qui est le pouvoir de décider de l'orientation économique du pays, de voter le budget de l'État, etc...  
 La presse, ajourd'hui assujettie à des groupes industriels monopolistiques, ne peut pas constituer un 5ème pouvoir. À la place, le citoyen, par la liberté d'expression peut remplir ce rôle. Cette possibilité est garantie par le droit à un accès à internet neutre.  
