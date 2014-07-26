@@ -46,5 +46,3 @@ Les citoyens doivent se voir garantis un regard sur le budget de l'état.
 Le gouvernement ne devrait pas être une seule et unique entité, mais une fédération constituée par 4 gouvernements représentant chacun de ces quatre pouvoirs.  
 
 La méthode de désignation du gouvernement privilégiée pourrait être, porposition soumise à discussion, le tirage au sort afin d'éviter qu'une élite politique, soutenue par un armée de communicants, ne confisque la crédibilité en tant que Présidentiable.
-
-Ne pas fixer ni figer la structure gouvernementale ainsi. Trop flou et trop de possibilités. Plutôt invoquer une série d'entités interagissantes.
