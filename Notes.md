@@ -46,3 +46,9 @@ Les citoyens doivent se voir garantis un regard sur le budget de l'état.
 Le gouvernement ne devrait pas être une seule et unique entité, mais une fédération constituée par 4 gouvernements représentant chacun de ces quatre pouvoirs.  
 
 La méthode de désignation du gouvernement est à ce stade problématique et ouverte à discussion. Une partie du gourvernement devrait être désigné par tirage aus sort parmis les citoyens. Cela ammène un autre problème : il est nécessaire que la constitution garantisse que l'État prodigue une éducation politique aux citoyens.
+
+
+## Le pouvoir militaire
+
+Celui-ci devrait être soumis au strict contrôle du citoyen. Toute intervention armée soumise à un référundum populaire, sauf concernant les intervention nécessitant une prise de décision rapide. Il faut tout de même définir précisémment les cas de prise de décision rapide.
+La constitution devrait intégrer l'affirmation que la France renonce à l'arme atomique.
