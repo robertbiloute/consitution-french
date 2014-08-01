@@ -20,17 +20,16 @@ Les articles suivants ne peuvent être modifiés sans annuler la constitution.
 
 ### Article premier
 
-La France est un État qui reconnait à chaque citoyen sans distinction physique ou religieuse les droits fondamentaux suivants :
+La France est un État qui reconnait à chaque citoyen sans distinction les droits fondamentaux suivants, dans la limite des droits fondamentaux de la collectivité formée par l'ensemble des citoyens :
 
  * l'accès à l'eau courante,
- * l'accès à une nourriture de qualité et saine,
- * l'accès à l'électricité, dans les limites des possibilités environnementales
- * l'accès à un logement, quelle que soit ses ressources ou son activité,
- * l'accès à un revenu financier, quellles que soit sont activité,
- * l'accès à l'éducation et à la culture, quelles que soient ses ressources financières,
- * l'accès à la justice et aux lois,
- * l'accès aux services rendus par l'État par des moyens simples
- * l'accès à l'information et à la liberté d'expression,
- * l'accès à un internet neutre.
+ * l'accès à une nourriture saine,
+ * l'accès à un logement,
+ * l'accès à l'électricité,
+ * l'accès à un revenu financier,
+ * l'accès à l'éducation et à la culture,
+ * l'accès au principe de fonctionnement et aux délibérations concernant la justice et les lois,
+ * l'accès aux services rendus par l'État
+ * l'accès aux outils d'expression,
 
 De plus, elle reconnait la possibilité à chaque être vivant, citoyen français ou pas, la possibilité d'être accueilli sur le territoire français et de s'insérer dans la communauté.
