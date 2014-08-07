@@ -107,6 +107,13 @@ Certains citoyens se sont rassemblés, à leur propre initiative sans conformit�
 * Un échelon inférieur B peut modifier la constitution d'un territoire d'échelon supérieur A par démocratie directe impliquant tous les territoires de l'échelon B inclus dans le territoire A.
 
 
+=======
+note sur les 3 rapports possibles individu/groupe
+
+- individu-individu: du ressort de la justice
+- individu-collectif: du ressort de la politique
+- collectif-collectif: du ressort de ..?
+
 
 =======
 
@@ -114,3 +121,8 @@ Certains citoyens se sont rassemblés, à leur propre initiative sans conformit�
 
 Celui-ci devrait être soumis au strict contrôle du citoyen. Toute intervention armée soumise à un référundum populaire, sauf concernant les intervention nécessitant une prise de décision rapide. Il faut tout de même définir précisémment les cas de prise de décision rapide.
 La constitution devrait intégrer l'affirmation que la France renonce à l'arme atomique.
+
+
+
+
+
